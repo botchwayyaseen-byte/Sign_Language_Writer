@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.vscode/
+
+# Personal training data and trained model (record your own, see README)
+samples.csv
+sign_model.joblib
+sentences.txt
