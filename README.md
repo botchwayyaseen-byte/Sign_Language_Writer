@@ -25,7 +25,7 @@ Built with [MediaPipe Hands](https://developers.google.com/mediapipe) for landma
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/sign-language-writer.git
+git clone https://github.com/<Yaseen_Botchway>/sign-language-writer.git
 cd sign-language-writer
 
 python -m venv venv
